@@ -1,0 +1,25 @@
+{
+  "name": "chat-gpt-console",
+  "version": "1.0.0",
+  "description": "Node.js CLI for talking to chat-gpt's API",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edvinpontuslarsson/chat-gpt-console.git"
+  },
+  "keywords": [
+    "chat-gpt",
+    "Node",
+    "cli"
+  ],
+  "author": "Edvin Larsson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/edvinpontuslarsson/chat-gpt-console/issues"
+  },
+  "homepage": "https://github.com/edvinpontuslarsson/chat-gpt-console#readme"
+}
