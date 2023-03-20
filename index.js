@@ -14,7 +14,7 @@ stdin.addListener("data", async (data) => {
   const model = process.env.OPTIONAL_GPT_MODEL;
 
   const response = await askChatGPTAPI(apiKey, prompt, model);
-  console.log(response);
+  console.log(response, "\n\n");
 });
 
 /**
