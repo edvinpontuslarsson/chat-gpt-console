@@ -3,8 +3,8 @@ Node.js CLI for talking to chat-gpt's API
 
 ## Usage
 
-1. Have Node.js installed on your machine
-2. Install this with the following command
+1. This instruction assumes you already have Node.js installed on your machine
+2. Install this program with the following command
 ```console
 npm i
 ```
