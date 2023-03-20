@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/edvinpontuslarsson/chat-gpt-console#readme",
   "dependencies": {
-    "dotenv": "^16.0.3"
+    "dotenv": "^16.0.3",
+    "openai": "^3.2.1"
   }
 }
